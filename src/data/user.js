@@ -67,6 +67,14 @@ const INFO = {
 		},
 
 		{
+			title: "Spark Labs",
+			description:
+				"A smooth and good looking web3 landing for a global web3 company name SPARK LABS.",
+			logo: "https://cdn-icons-png.flaticon.com/512/10838/10838328.png",
+			linkText: "View Project",
+			link: "https://spark-labs-seven.vercel.app/",
+		},
+		{
 			title: "Music Landing Page",
 			description:
 				"A simple landing page related to music and lifestyle.",
