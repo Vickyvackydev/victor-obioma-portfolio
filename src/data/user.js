@@ -41,6 +41,14 @@ const INFO = {
 		},
 
 		{
+			title: "Judex Ai",
+			description:
+				"An legal Ai agent, that assist legal officials in the court sectors, lawyers and the rest in the legal sectors.",
+			logo: "https://cdn-icons-png.flaticon.com/512/10838/10838328.png",
+			linkText: "View Project",
+			link: "https://judexai.com",
+		},
+		{
 			title: "LexTech Website",
 			description:
 				"A website that stands as a reflection of a legal service company, scale through to see services they offer.",
